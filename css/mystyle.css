@@ -71,6 +71,13 @@ p{
     h1{
         font-size: 30px;
     }
+    #bag-health div{
+        background-color: white;
+        height: 20px;
+    }
+    button{
+        padding: 3px 18px;
+    }
 }
 
 
