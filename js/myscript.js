@@ -28,6 +28,6 @@ methods: {
 
 $(document).ready(function(){
     $("#bag").click(function(){
-       $("#bag").fadeTo("fast", 0.5).fadeTo("fast", 0.9)
+       $("#bag").fadeTo("fast", 0.5).fadeTo("fast", 1)
     });
 })
